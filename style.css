@@ -148,12 +148,12 @@ nav a:hover
 
 .bouton_rouge
 {
-    height: 25px;
+    height: 35px;
     position: absolute;
     right: 5px;
     bottom: 5px;
     background: url('images/fond_degraderouge.png') repeat-x;
-    border: 1px solid #760001;
+    border: 1px solid blue;
     border-radius: 5px;
     font-size: 1.2em;
     text-align: center;
